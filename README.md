@@ -15,3 +15,11 @@ Especificações da aplicação:
 <br>&nbsp;&nbsp;- Montagem Amplificador Inversor com amp-op;
 <br>&nbsp;&nbsp;- Montagem Amplificador não inversor com amp-op;
 <br>&nbsp;&nbsp;- Sair do programa;	
+
+Na opção: Circuito divisor de Divisor de tensão:
+&nbsp;- Solicitar a tensão de entrada (Vs);
+&nbsp;- Solicitar a tensão de saída (Vm);
+&nbsp;- Solicitar a corrente máxima no circuito;
+&nbsp;- Calcular e Responder com o valor do R1 e do R2;
+&nbsp;- Tratar devidamente os possíveis erros;
+&nbsp;- Ao final, aguardar uma tecla e voltar para o menu;
