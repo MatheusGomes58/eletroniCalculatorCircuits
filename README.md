@@ -5,8 +5,7 @@
 Turma: Engenharia da Computação
 <br>
 Especificações da aplicação:
-<br>- Objetivo:
-<br>&nbsp;- Desenvolver um programa em linguagem C para auxílio de projeto de circuitos eletroeletrônicos;
+<br>Objetivo: Desenvolver um programa em linguagem C para auxílio de projeto de circuitos eletroeletrônicos;
 <br>&nbsp;&nbsp;- Deverá conter um menu inicial contendo as opções:
 <br>&nbsp;&nbsp;- Circuito divisor de Divisor de tensão;
 <br>&nbsp;&nbsp;- Resistor de LED;
